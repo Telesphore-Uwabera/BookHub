@@ -136,7 +136,7 @@ npm install
 - Create a `.env` file:
 ```env
 MONGO_URI=mongodb+srv://bookHubDB:91073Tecy@cluster.mongodb.net/bookHubDB
-JWT_SECRET=91073@Tecy
+JWT_SECRET=xxx
 PORT=5000
 ```
 - **Run the backend**
